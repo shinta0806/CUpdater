@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+  <channel>
+    <title>マイアプリの最新情報</title>
+    <link>http://example.com/MyApp.html</link>
+    <description>マイアプリに関する最新情報を提供</description>
+    <language>ja-jp</language>
+    <copyright>Copyright (C) by Hoge</copyright>
+
+    <item>
+      <title>マイアプリ Ver 2.00 を公開</title>
+      <link>http://example.com/blog/12345</link>
+      <guid isPermaLink="false">12345</guid>
+    </item>
+
+    <item>
+      <title>マイアプリ Ver 1.50 を公開</title>
+      <link>http://example.com/blog/12344</link>
+      <guid isPermaLink="false">12344</guid>
+    </item>
+
+  </channel>
+
+</rss>

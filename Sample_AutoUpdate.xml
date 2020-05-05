@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+  <channel>
+    <title>マイアプリの自動更新用情報</title>
+    <link>http://example.com/MyApp.html</link>
+    <description>マイアプリの自動更新に必要な情報を提供</description>
+    <language>ja-jp</language>
+    <copyright>Copyright (C) by Hoge</copyright>
+
+    <item>
+      <title>Ver 2.00</title>
+      <link md5="6CB9D58088CDF67511D3611DDD892ED7">http://example.com/mirror1/MyApp200.zip</link>
+      <guid isPermaLink="false">Ver 2.00-mirror1</guid>
+    </item>
+
+    <item>
+      <title>Ver 2.00</title>
+      <link md5="6CB9D58088CDF67511D3611DDD892ED7">http://example.net/mirror2/MyApp200.zip</link>
+      <guid isPermaLink="false">Ver 2.00-mirror2</guid>
+    </item>
+
+    <item>
+      <title>Ver 2.00</title>
+      <link md5="6CB9D58088CDF67511D3611DDD892ED7">http://example.org/mirror3/MyApp200.zip</link>
+      <guid isPermaLink="false">Ver 2.00-mirror3</guid>
+    </item>
+
+  </channel>
+
+</rss>
